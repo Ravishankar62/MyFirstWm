@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="name">DevOps_Tutorial1</value>
+  <value name="build">10.3.2</value>
+  <null name="description"/>
+  <value name="time">2020-07-23 17:02:56 IST</value>
+  <value name="jvm_version">1.8.0_222</value>
+  <value name="publisher">Lenovo-PC</value>
+  <value name="patch_nums"></value>
+</Values>
